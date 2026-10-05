@@ -1,0 +1,13 @@
+numpy==2.5.1
+pandas==3.0.5
+pyarrow==25.0.0
+matplotlib==3.11.0
+scipy==1.18.0
+aacgmv2==2.7.1
+ppigrf==2.1.0
+cartopy==0.25.0
+shapely==2.1.2
+requests==2.34.2
+beautifulsoup4==4.15.0
+python-dotenv==1.2.2
+ipykernel==7.3.0
